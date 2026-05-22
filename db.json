@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 25,
+      "rating": 4.7,
+      "image": "https://example.com/images/headphones.jpg",
+      "description": "High-quality wireless headphones with noise cancellation and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Gaming Mechanical Keyboard",
+      "brand": "Logitech",
+      "category": "Accessories",
+      "price": 59.99,
+      "stock": 18,
+      "rating": 4.5,
+      "image": "https://example.com/images/keyboard.jpg",
+      "description": "RGB mechanical keyboard designed for gamers with fast response switches."
+    },
+    {
+      "id": 3,
+      "name": "Smart Fitness Watch",
+      "brand": "Xiaomi",
+      "category": "Wearable",
+      "price": 45.5,
+      "stock": 40,
+      "rating": 4.3,
+      "image": "https://example.com/images/watch.jpg",
+      "description": "Track your fitness, heart rate, and sleep with this stylish smart watch."
+    },
+    {
+      "id": 4,
+      "name": "Portable SSD 1TB",
+      "brand": "Samsung",
+      "category": "Storage",
+      "price": 120.0,
+      "stock": 12,
+      "rating": 4.8,
+      "image": "https://example.com/images/ssd.jpg",
+      "description": "Ultra-fast portable SSD with USB-C support and durable metal body."
+    },
+    {
+      "id": 5,
+      "name": "4K Action Camera",
+      "brand": "GoPro",
+      "category": "Camera",
+      "price": 199.99,
+      "stock": 10,
+      "rating": 4.6,
+      "image": "https://example.com/images/camera.jpg",
+      "description": "Capture stunning 4K videos and photos during adventures and travel."
+    }
+  ]
+}
