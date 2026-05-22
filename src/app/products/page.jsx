@@ -1,6 +1,6 @@
 import ProductCard from "@/components/ProductCard";
 const getProducts = async() =>{
-    const res = await fetch('http://localhost:3004/products',{cache:'no-cache'});
+    const res = await fetch('http://localhost:3004/products',{next:{revalidate:10}});
     return res.json();
 }
 
