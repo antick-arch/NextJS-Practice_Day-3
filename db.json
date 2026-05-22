@@ -55,5 +55,117 @@
       "image": "https://example.com/images/camera.jpg",
       "description": "Capture stunning 4K videos and photos during adventures and travel."
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Help",
+      "price": 18.99,
+      "stock": 20,
+      "rating": 4.8,
+      "image": "https://example.com/images/atomic-habits.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 12.5,
+      "stock": 15,
+      "rating": 4.7,
+      "image": "https://example.com/images/the-alchemist.jpg",
+      "description": "A philosophical novel about following your dreams and destiny."
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 35.0,
+      "stock": 10,
+      "rating": 4.9,
+      "image": "https://example.com/images/clean-code.jpg",
+      "description": "A handbook of agile software craftsmanship and writing maintainable code."
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance",
+      "price": 14.99,
+      "stock": 18,
+      "rating": 4.6,
+      "image": "https://example.com/images/rich-dad-poor-dad.jpg",
+      "description": "Lessons about money, investing, and financial independence."
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "price": 16.75,
+      "stock": 30,
+      "rating": 4.9,
+      "image": "https://example.com/images/harry-potter.jpg",
+      "description": "The magical journey of a young wizard named Harry Potter."
+    },
+    {
+      "id": 6,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 17.25,
+      "stock": 14,
+      "rating": 4.7,
+      "image": "https://example.com/images/deep-work.jpg",
+      "description": "Rules for focused success in a distracted world."
+    },
+    {
+      "id": 7,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Motivation",
+      "price": 13.99,
+      "stock": 22,
+      "rating": 4.5,
+      "image": "https://example.com/images/think-grow-rich.jpg",
+      "description": "Classic success principles based on achievement and mindset."
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "category": "Computer Science",
+      "price": 55.0,
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://example.com/images/algorithms.jpg",
+      "description": "Comprehensive textbook covering algorithms and data structures."
+    },
+    {
+      "id": 9,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 15.49,
+      "stock": 16,
+      "rating": 4.8,
+      "image": "https://example.com/images/psychology-money.jpg",
+      "description": "Insights into how people think about money and wealth."
+    },
+    {
+      "id": 10,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic",
+      "price": 11.99,
+      "stock": 19,
+      "rating": 4.9,
+      "image": "https://example.com/images/mockingbird.jpg",
+      "description": "A timeless novel about justice, morality, and human nature."
+    }
   ]
 }
